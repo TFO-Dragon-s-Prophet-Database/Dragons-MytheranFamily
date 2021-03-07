@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 2986e9f9367354340a449c0e446c1b37
+labels:
+- MytheranTexture
 IHVImageFormatImporter:
   externalObjects: {}
   textureSettings:
